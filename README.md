@@ -68,4 +68,4 @@ For **authorized pentest & CTF only**.
 Author not responsible for script kids.
 
 ## --------------------- Hacker --------------------- ##
-## This script needs to be upgraded! Dear Hacker. 
+×× This script needs to be upgraded! Dear Hacker. ××
