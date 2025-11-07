@@ -67,4 +67,6 @@ python3 cpanel_sqli.py < list.txt
 For **authorized pentest & CTF only**.  
 Author not responsible for script kids.
 
+##########################################
+
 ## This script needs to be upgraded! Dear Hacker. 
