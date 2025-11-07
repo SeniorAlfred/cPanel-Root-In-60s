@@ -68,4 +68,3 @@ For **authorized pentest & CTF only**.
 Author not responsible for script kids.
 
 ## Star if you pwned a box today  
-```
